@@ -43,3 +43,11 @@ All Pre-Processing of Data is done in **models.ipynb** only.
 
 ## How to Run
 Run **models.ipynb** file.
+
+## Best Result
+Best Result was achieved with CNN-CRNN parallel multi modal model.
+### Accuracy
+<img src="results/cnn-crnn multi modal model accuracy.png" width="310">
+
+### Loss
+<img src="results/cnn-crnn multi modal model loss.png" width="310">
