@@ -42,4 +42,4 @@ All Pre-Processing of Data is done in **models.ipynb** only.
 | CNN-CRNN Multi Modal Model | 99.92% | 80.00% |
 
 ## How to Run
-run **models.ipynb** file
+Run **models.ipynb** file
